@@ -1,0 +1,3 @@
+enabled: true
+# in milliseconds
+tablist-update-interval: 500
